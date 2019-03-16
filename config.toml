@@ -1,4 +1,6 @@
 baseurl = '/'
 title = 'PRUEBA 123'
-custom_css = 'css'
+
+[params]
+  customCSS = [ "blackburn.css" ]
 
