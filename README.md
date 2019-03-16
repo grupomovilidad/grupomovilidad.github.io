@@ -1,13 +1,30 @@
 # Grupo de Estudio de Movilidad Montevideano
 
++ **Proyecto Actual**: Calibración de un modelo de interacción espacial para la modelización de la movilidad en Montevideo
++ **Equipo**: E. Riaño y  M.Hanz (responsables); F.Massa, A.Rey y A.Castrillejo
++ **Palabras clave**: Modelos de Origen Destino, Modelos gravitacionales, Econometría Espacial
++ **Financiación**: Agencia Nacional de Investigación e Innovación ANII - FSDA 1-2017-1-143179
 
++ **Resumen**
 
-## Proyecto Actual
-+ Calibración de un modelo de interacción espacial para la modelización de la movilidad en Montevideo
-+ Equipo:
-    - Responsable: E. Riaño; M.Hanz 
-    - Integrantes: F.Massa; A.Rey; A.Castrillejo
- + Palabras clave: 
-    - Modelos de Origen Destino, Modelos gravitacionales, Econometría Espacial
- + Financiación:
-    - Agencia Nacional de Investigación e Innovación ANII - FSDA 1-2017-1-143179
+    > El objetivo general del proyecto es construir modelos de interacción espacial para la modelización de los
+    > viajes entre zonas en la ciudad de Montevideo. Las predicciones de los modelos permitirán evaluar el
+    > impacto como respuesta a cambios en las características de una región. Los modelos serán construidos en
+    > base a los datos de la Encuesta de Movilidad del Área Metropolitana de Montevideo.
+    > 
+    > Los modelos de interacción espacial son una generalización de los modelos gravitacionales. Estos
+    > modelos asumen independencia entre los flujos existentes entre regiones. Este supuesto no considera la
+    > interacción que puede existir entre regiones cercanas a las que generan o atraen viajes. Recientemente,
+    > desde la perspectiva de la econometría espacial, se plantea una extensión del modelo gravitacional,
+    > incorporando términos que permiten modelizar la correlación espacial entre las regiones de la matriz de
+    > origen - destino.
+    > 
+    > Actualmente para la ciudad de Montevideo y su Área Metropolitana no existe un modelo que explique y
+    > prediga la movilidad diaria de viajes entre zonas de la ciudad. Este tipo de modelos representa una
+    > herramienta fundamental para la planificación estratégica del transporte, y son a su vez insumos para la
+    > generación de matrices origen-destino, elemento central en los modelos de transporte (por ejemplo, el
+    > modelo clásico de cuatro etapas). Por lo tanto, mediante el estudio propuesto se pretende calibrar modelos
+    > de interacción espacial para los diferentes tipos de viaje que logren describir adecuadamente los flujos de
+    > transporte en la ciudad, así como sus variables determinantes, y provea de herramientas para el análisis de
+    > políticas de transporte y ordenamiento territorial.
+
