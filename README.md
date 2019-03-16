@@ -4,7 +4,6 @@
 + **Equipo**: E. Riaño y  M.Hanz (responsables); F.Massa, A.Rey y A.Castrillejo
 + **Palabras clave**: Modelos de Origen Destino, Modelos gravitacionales, Econometría Espacial
 + **Financiación**: Agencia Nacional de Investigación e Innovación ANII - FSDA 1-2017-1-143179
-
 + **Resumen**
 
     > El objetivo general del proyecto es construir modelos de interacción espacial para la modelización de los
