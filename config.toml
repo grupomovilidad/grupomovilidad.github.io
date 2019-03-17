@@ -1,6 +1,0 @@
-baseurl = '/'
-title = 'PRUEBA 123'
-
-[params]
-  customCSS = [ "blackburn.css" ]
-
