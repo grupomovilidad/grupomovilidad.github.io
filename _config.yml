@@ -1,6 +1,9 @@
 theme: minima
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-hacker
+plugins:
+- jekyll-menus
+
 title: Grupo de Estudio de Movilidad Montevideano
 description: A short description
 menus: un menu
