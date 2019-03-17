@@ -1,12 +1,18 @@
-#theme: minima
 theme: jekyll-theme-minimal
+
 #theme: jekyll-theme-hacker
-plugins:
-- jekyll-menus
+#theme: minima
 
 title: Grupo de Estudio de Movilidad Montevideano
 #description: A short description
-menus:
-  header:
-    title: Home
-    weight: 1
+
+#plugins:
+#- jekyll-menus
+#menus:
+#  header:
+#    title: Home
+#    weight: 1
+
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
