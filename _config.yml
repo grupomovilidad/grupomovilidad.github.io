@@ -1,5 +1,5 @@
-theme: minima
-#theme: jekyll-theme-minimal
+#theme: minima
+theme: jekyll-theme-minimal
 #theme: jekyll-theme-hacker
 plugins:
 - jekyll-menus
