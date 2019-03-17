@@ -1,5 +1,3 @@
-# Grupo de Estudio de Movilidad Montevideano
-
 + **Proyecto Actual**: Calibración de un modelo de interacción espacial para la modelización de la movilidad en Montevideo
 + **Equipo**: E. Riaño y  M.Hanz (responsables); F.Massa, A.Rey y A.Castrillejo
 + **Palabras clave**: Modelos de Origen Destino, Modelos gravitacionales, Econometría Espacial
