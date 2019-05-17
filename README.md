@@ -4,7 +4,8 @@
 + **Financiación**: Agencia Nacional de Investigación e Innovación ANII - FSDA 1-2017-1-143179
 + **Resumen**
 
-    > El objetivo general del proyecto es construir modelos de interacción espacial para la modelización de los
+[prueba de link](projects/pru1)
+> El objetivo general del proyecto es construir modelos de interacción espacial para la modelización de los
     > viajes entre zonas en la ciudad de Montevideo. Las predicciones de los modelos permitirán evaluar el
     > impacto como respuesta a cambios en las características de una región. Los modelos serán construidos en
     > base a los datos de la Encuesta de Movilidad del Área Metropolitana de Montevideo.
