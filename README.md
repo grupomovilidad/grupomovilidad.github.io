@@ -2,26 +2,19 @@
 
 
 # Presentación
+El grupo multidisciplinario para el estudio del transporte y movilidad tiene por objetivos trabajar en la modelización de ....
+   
    
 # Miembros 
-+ María Eugenia Riaño
-+ Martín Hansz 
-+ Fernando Massa 
-+ Antonio Rey 
-+ Andrés Castrillejo
++ María Eugenia Riaño y Martín Hansz (coordinadores)
++ Fernando Massa;  Antonio Rey; Andrés Castrillejo
 
 # Proyectos
-## [Proyecto Actual](projects/anii2018)
-+ **Nombre**: Calibración de un modelo de interacción espacial para la modelización de la movilidad en Montevideo
-+ **Equipo**: E. Riaño y  M.Hanz (responsables); F.Massa, A.Rey y A.Castrillejo
-+ **Palabras clave**: Modelos de Origen Destino, Modelos gravitacionales, Econometría Espacial
-+ **Financiación**: Agencia Nacional de Investigación e Innovación ANII - FSDA 1-2017-1-143179
-
-
-## [Proyecto Actual](projects/csic2019)
+## [Calibración de un modelo de interacción espacial para la modelización de la movilidad en Montevideo](projects/anii2018)
+## [Modelización de la cantidad de viajes](projects/csic2019)
 
 # Eventos
-## [workshop](workshop2019/workshop)
+## [Workshop Interdisciplinario sobre Movilidad y Transporte](workshop2019/workshop)
 
 
 # Materiales
