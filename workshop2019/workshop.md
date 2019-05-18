@@ -23,3 +23,6 @@ date    :  May 2019
 + Fernando Massa    - Instituto de Estadística, FCEA-Udelar, Uruguay
 
 # Resúmenes
+
+
+![GitHub Logo](images/Rollup_ workshopIESTA.png)
