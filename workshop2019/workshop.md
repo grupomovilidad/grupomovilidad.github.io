@@ -17,12 +17,12 @@ date    :  May 2019
 + Orlando Sabogal   - Universidad Tecnológica de Pereira,  Colombia
 + Diego Hernández   - Universidad Católica del Uruguay
 + Martín Hansz      - Universidad Católica del Uruguay
-+ Renzo Massobrio   - FING-Udelar, Uruguay
-+ Ma. Eugenia Riaño - Instituto de Estadística, FCEA-Udelar, Uruguay
-+ Antonio Rey       - Instituto de Estadística, FCEA-Udelar, Uruguay
-+ Fernando Massa    - Instituto de Estadística, FCEA-Udelar, Uruguay
++ Renzo Massobrio   - Facultad de Ingeiería - UdelaR
++ Ma. Eugenia Riaño - Instituto de Estadística, FCEA - UdelaR
++ Antonio Rey       - Instituto de Estadística, FCEA - UdelaR
++ Fernando Massa    - Instituto de Estadística, FCEA - UdelaR
 
 # Resúmenes
 
 
-![GitHub Logo](images/Rollup_ workshopIESTA.png)
+![Afiche](images/Rollup_ workshopIESTA.png)

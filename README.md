@@ -10,16 +10,15 @@ El grupo multidisciplinario para el estudio del transporte y movilidad tiene por
 + Fernando Massa;  Antonio Rey; Andrés Castrillejo
 
 # Proyectos
-## [Calibración de un modelo de interacción espacial para la modelización de la movilidad en Montevideo](projects/anii2018)
+## [Calibración de un modelo de interacción espacial para la modelización de la movilidad](projects/anii2018)
 ## [Modelización de la cantidad de viajes](projects/csic2019)
 
 # Eventos
-## [Workshop Interdisciplinario sobre Movilidad y Transporte](workshop2019/workshop)
+## [Workshop sobre Movilidad y Transporte](workshop2019/workshop)
 
 
 # Materiales
-## package MoMoMo 
-[download](link)
+### package MoMoMo [download](link)
 
 
 
