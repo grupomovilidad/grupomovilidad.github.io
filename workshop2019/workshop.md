@@ -14,15 +14,15 @@ date    :  May 2019
 
 # Expositores
 
-+ Orlando Sabogal   - Universidad Tecnológica de Pereira,  Colombia
-+ Diego Hernández   - Universidad Católica del Uruguay
-+ Martín Hansz      - Universidad Católica del Uruguay
-+ Renzo Massobrio   - Facultad de Ingeiería - UdelaR
-+ Ma. Eugenia Riaño - Instituto de Estadística, FCEA - UdelaR
-+ Antonio Rey       - Instituto de Estadística, FCEA - UdelaR
-+ Fernando Massa    - Instituto de Estadística, FCEA - UdelaR
++ Orlando Sabogal   - Universidad Tecnológica de Pereira, Colombia [+](https://orlando-sabogal.github.io/)
++ Diego Hernández   - Universidad Católica del Uruguay [+](https://ucu.edu.uy/es/diego-hernandez)
++ Martín Hansz      - Universidad Católica del Uruguay [+]()
++ Renzo Massobrio   - Facultad de Ingeniería - UdelaR [+]()
++ Ma. Eugenia Riaño - Instituto de Estadística, FCEA - UdelaR [+]()
++ Antonio Rey       - Instituto de Estadística, FCEA - UdelaR [+]()
++ Fernando Massa    - Instituto de Estadística, FCEA - UdelaR [+]()
 
 # Resúmenes
-
+[download](link)
 
 ![Afiche](images/Rollup_ workshopIESTA.png)
