@@ -22,7 +22,18 @@ date    :  May 2019
 + Antonio Rey       - Instituto de Estadística, FCEA - UdelaR [+]()
 + Fernando Massa    - Instituto de Estadística, FCEA - UdelaR [+]()
 
-# Resúmenes
+# Presentaciones
 [download](link)
+[Orl](documentos/Transporte Urbano_ Mirada Social y Tecnológica.pdf)
+[Renz](documentos/Análisis de Datos del sistema de transporte público de Montevideo.pdf)
+
+documentos/CyclingTheCity.pdf
+documentos/Imputación Celdas Vacías de la Matriz OD.pdf
+documentos/Modelos de interacción espacial con efectos aleatorios aplicación a los viajes por trabajo en Montevideo.pdf
+documentos/Transporte Urbano y Accesibilidad.pdf
+
+
+
+
 
 ![Afiche](images/Rollup_ workshopIESTA.png)
