@@ -15,25 +15,18 @@ date    :  May 2019
 # Expositores
 
 + Orlando Sabogal   - Universidad Tecnológica de Pereira, Colombia [+](https://orlando-sabogal.github.io/)
-+ Diego Hernández   - Universidad Católica del Uruguay [+](https://ucu.edu.uy/es/diego-hernandez)
 + Martín Hansz      - Universidad Católica del Uruguay [+]()
 + Renzo Massobrio   - Facultad de Ingeniería - UdelaR [+]()
 + Ma. Eugenia Riaño - Instituto de Estadística, FCEA - UdelaR [+]()
-+ Antonio Rey       - Instituto de Estadística, FCEA - UdelaR [+]()
 + Fernando Massa    - Instituto de Estadística, FCEA - UdelaR [+]()
 
 # Presentaciones
-[download](link)
-[Orl](documentos/Transporte Urbano_ Mirada Social y Tecnológica.pdf)
-[Renz](documentos/Análisis de Datos del sistema de transporte público de Montevideo.pdf)
-
-documentos/CyclingTheCity.pdf
-documentos/Imputación Celdas Vacías de la Matriz OD.pdf
-documentos/Modelos de interacción espacial con efectos aleatorios aplicación a los viajes por trabajo en Montevideo.pdf
-documentos/Transporte Urbano y Accesibilidad.pdf
-
-
-
+[O. Sabogal - Transporte urbano: mirada social y tecnológica](documento/Transporte_Urbano_Mirada_Social_y_Tecnologica.pdf)
+[M.E. Riaño - Imputación de celdas vacias de la matriz origen-destino](documento/Imputacion_Celdas_Vacias_de_la_Matriz_OD.pdf)
+[O. Sabogal - Pereira y Dosquebradas: hacia la bicicleta](documento/CyclingTheCity.pdf)
+[F. Massa - Modelos de interacción esapcial con efectos aleatorios: una aplicación a los viajes por trabajo en Montevideo](documento/Modelos_de_interaccion_espacial_con_efectos_aleatorios_aplicacion_a_los_viajes_por_trabajo_en_Montevideo.pdf)
+[R. Massobrio - Análisis de datos del sistema de transporte público de Montevideo](documento/Analisis_de_Datos_del_sistema_de_transporte_publico_de_Montevideo.pdf)
+[M. Hansz - El transporte públlico urbano y la accesibilidad a las oportunidades laborales en Montevideo](documento/Transporte_Urbano_y_Accesibilidad.pdf)
 
 
 ![Afiche](images/Rollup_ workshopIESTA.png)
