@@ -21,12 +21,12 @@ date    :  May 2019
 + Fernando Massa    - Instituto de Estadística, FCEA - UdelaR [+]()
 
 # Presentaciones
-- [O. Sabogal - Transporte urbano: mirada social y tecnológica](documento/Transporte_Urbano_Mirada_Social_y_Tecnologica.pdf)
-- [M.E. Riaño - Imputación de celdas vacias de la matriz origen-destino](documento/Imputacion_Celdas_Vacias_de_la_Matriz_OD.pdf)
-- [O. Sabogal - Pereira y Dosquebradas: hacia la bicicleta](documento/CyclingTheCity.pdf)
-- [F. Massa - Modelos de interacción esapcial con efectos aleatorios: una aplicación a los viajes por trabajo en Montevideo](documento/Modelos_de_interaccion_espacial_con_efectos_aleatorios_aplicacion_a_los_viajes_por_trabajo_en_Montevideo.pdf)
-- [R. Massobrio - Análisis de datos del sistema de transporte público de Montevideo](documento/Analisis_de_Datos_del_sistema_de_transporte_publico_de_Montevideo.pdf)
-- [M. Hansz - El transporte públlico urbano y la accesibilidad a las oportunidades laborales en Montevideo](documento/Transporte_Urbano_y_Accesibilidad.pdf)
+- [O. Sabogal - Transporte urbano: mirada social y tecnológica](documentos/Transporte_Urbano_Mirada_Social_y_Tecnologica.pdf)
+- [M.E. Riaño - Imputación de celdas vacias de la matriz origen-destino](documentos/Imputacion_Celdas_Vacias_de_la_Matriz_OD.pdf)
+- [O. Sabogal - Pereira y Dosquebradas: hacia la bicicleta](documentos/CyclingTheCity.pdf)
+- [F. Massa - Modelos de interacción esapcial con efectos aleatorios: una aplicación a los viajes por trabajo en Montevideo](documentos/Modelos_de_interaccion_espacial_con_efectos_aleatorios_aplicacion_a_los_viajes_por_trabajo_en_Montevideo.pdf)
+- [R. Massobrio - Análisis de datos del sistema de transporte público de Montevideo](documentos/Analisis_de_Datos_del_sistema_de_transporte_publico_de_Montevideo.pdf)
+- [M. Hansz - El transporte públlico urbano y la accesibilidad a las oportunidades laborales en Montevideo](documentos/Transporte_Urbano_y_Accesibilidad.pdf)
 
 
 ![Afiche](images/Rollup_ workshopIESTA.png)
